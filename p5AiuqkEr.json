@@ -1,41 +1,32 @@
 {
   "id": "p5AiuqkEr",
-  "nombre": "Arnés Profi Worker 3D Standard",
-  "marca": "Singing Rock",
-  "modelo": "Profi Worker 3D Standard",
-  "categoria": "Equipos de protección personal > Arnés anticaídas",
-  "precio": 215.00,
-  "moneda": "USD",
-  "descripcion": "Arnés integral para trabajo en altura con soporte lumbar y anillas de posicionamiento laterales. Incluye tres puntos de anclaje (esternal, dorsal y cintura) y hebillas automáticas Rock&Lock.",
-  "descripcion_larga": "El arnés Profi Worker 3D Standard de Singing Rock está diseñado para tareas exigentes en trabajos verticales e industriales. Equipado con cinturón ergonómico acolchado, anillas laterales para posicionamiento, y hebillas automáticas Rock&Lock para un ajuste rápido y seguro. Cumple normas EN 361, EN 358 y EN 813.",
-  "etiquetas": ["arnés", "trabajo en altura", "EPP", "Singing Rock", "profi", "industria"],
-  "estado": "nuevo",
-  "disponibilidad": "en_stock",
-  "condicion": "nuevo",
-  "sku": "SR-PAW21X045",
-  "gtin": "",
-  "mpn": "W0061BY045",
-  "color": "Negro y amarillo",
-  "talla": "M-XL",
-  "peso": "2.1 kg",
-  "materiales": ["Poliéster", "Acero", "Aluminio"],
-  "url_producto": "https://www.singingrock.com/profi-worker-3d-standard",
-  "imagen_url": "https://www.singingrock.com/files/produkty/W0061BY045_01_l.jpg",
-  "galeria": [
-    "https://www.singingrock.com/files/produkty/W0061BY045_01_l.jpg",
-    "https://www.singingrock.com/files/produkty/W0061BY045_02_l.jpg"
+  "nombre": "Arnés PROFI WORKER 3D Standard",
+  "descripcion": "Arnés de cuerpo completo con cinturón lumbar rígido, ideal para trabajos verticales y en suspensión prolongada. Cumple con las normas EN 361, EN 358 y EN 813.",
+  "imagenes": [
+    "p5AiuqkEr-1.jpg",
+    "p5AiuqkEr-2.jpg",
+    "p5AiuqkEr-3.jpg"
   ],
-  "fecha_creacion": "2025-07-17T19:00:00Z",
-  "proveedor": "singingrock.com",
+  "precio": 125.99,
+  "moneda": "USD",
+  "categoria": "arneses",
+  "marca": "Singing Rock",
+  "disponible": true,
+  "stock": 10,
+  "peso": "2100g",
+  "color": "negro/amarillo",
+  "url_producto": "https://www.singingrock.com/profi-worker-3d-standard",
   "seo": {
-    "title": "Arnés Singing Rock Profi Worker 3D Standard - Arnés integral para trabajos verticales",
-    "description": "Compra el arnés integral Singing Rock Profi Worker 3D Standard. Ideal para trabajos en altura, con 3 puntos de anclaje y hebillas automáticas.",
-    "slug": "arnes-singing-rock-profi-worker-3d-standard"
-  },
-  "social": {
-    "og:title": "Arnés Singing Rock Profi Worker 3D",
-    "og:description": "Arnés profesional con 3 puntos de anclaje y diseño ergonómico. Certificado para trabajos verticales.",
-    "og:image": "https://www.singingrock.com/files/produkty/W0061BY045_01_l.jpg",
-    "twitter:card": "summary_large_image"
+    "titulo": "Arnés PROFI WORKER 3D Standard - Singing Rock",
+    "descripcion": "Arnés profesional con cinturón lumbar rígido y múltiples puntos de anclaje, ideal para trabajos verticales prolongados. Homologado según EN 361, EN 358 y EN 813.",
+    "tags": [
+      "arnés de seguridad",
+      "trabajo en altura",
+      "equipo de protección personal",
+      "Singing Rock",
+      "arnés integral",
+      "EN361",
+      "PPE"
+    ]
   }
 }
